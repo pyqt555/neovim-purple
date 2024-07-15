@@ -14,7 +14,7 @@ function colors.generate()
       colors.ui = '#28284E '
       colors.none = 'none'
       colors.tag = '#00F4A2'
-      colors.func = '#FF9D00 '
+      colors.func = '#399675'
       colors.entity = '#41FFFF'
       colors.string = '#A3FF43'
       colors.regexp = '#E1EFFF'
