@@ -19,7 +19,7 @@ function colors.generate()
   colors.string = '#A3FF43'
   colors.regexp = '#E1EFFF'
   colors.markup = '#FF718E'
-  colors.keyword = '#FFD600'
+  colors.keyword = '#6EF8BE'
   colors.special = '#F2FF4E'
   colors.comment = '#AF85D4'
   colors.constant = '#FF718E'
